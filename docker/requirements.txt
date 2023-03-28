@@ -1,0 +1,5 @@
+# User should use this requirements.txt file to install all the dependencies if using GPU docker image
+pandas
+matplotlib
+tqdm
+scipy
